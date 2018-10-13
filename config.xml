@@ -1,10 +1,10 @@
- <widget id="A0000000000001"  version="0.0.1">
+ <widget id="A6084665592485"  version="0.0.1">
     <name>didiShit</name>
     <description>
         didiShit by APICloud.
     </description>
-    <author email="Alon@apicloud.com" href="http://www.apicloud.com">
-        Alon Zhang
+    <author email="testemail" href="testhref">
+        testauthor
     </author>
     <content src="index.html" />
     <access origin="*" />
